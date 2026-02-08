@@ -1,4 +1,4 @@
-# EvalAI Studio
+# DocEvalAI Studio
 
 DocEvalAI Studio is an AI-driven academic evaluation application built using Streamlit and large language models.  
 It enables educators and evaluators to assess learner submissions objectively against a defined problem statement and rubric.
