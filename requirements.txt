@@ -1,2 +1,5 @@
-docx
 streamlit
+pandas
+python-docx
+xlsxwriter
+groq
