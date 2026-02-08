@@ -4,3 +4,4 @@ python-docx
 xlsxwriter
 groq
 matplotlib
+plotly
